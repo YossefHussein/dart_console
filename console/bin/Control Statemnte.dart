@@ -3,7 +3,7 @@ main() {
    *  if (x == 6) {
       break;
       }
-   * meaning pless stoped in 4
+   * meaning pleas stopped in 4
    */
   for (var x = 1; x <= 10; x++) {
     if (x == 6) {

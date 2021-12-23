@@ -7,7 +7,7 @@ main(){
   print(x);
 
   /**
-   * preifix
+   * prefix
    **/
   var y = 1;
   ++y;

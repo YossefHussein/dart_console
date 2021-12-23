@@ -3,8 +3,8 @@ class Human {
   static info() {
     var pFname;
     fName = pFname;
-    print('firt name = ${fName}');
-    // value is null becuas we dont take any value
+    print('first name = ${fName}');
+    // value is null because we don't take any value
   }
 }
 

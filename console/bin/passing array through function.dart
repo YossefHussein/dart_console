@@ -1,5 +1,5 @@
 main() {
-  var a = [5, 55, "fdsg", 4];
+  var a = [5, 55, "youssef", 4];
   fun(a);
 }
 

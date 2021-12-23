@@ -13,7 +13,7 @@ class Human {
 main(List<String> args) {
   // now we create an object
   var h1 = Human();
-  // this is raise to create opertion with object outsid class
+  // this is raise to create operation with object outside class
   h1.age = '17';
   //
   h1.info();

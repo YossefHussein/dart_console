@@ -1,6 +1,6 @@
 /*
  * Higher Order Functions
- * it is teaks a function to a prametar
+ * it is teaks a function to a parameter
  */
 
 main(List<String> args) {
@@ -9,7 +9,6 @@ main(List<String> args) {
 }
 
 mainFun(x, y, {Function myFun}) {
-  // ignore: unnecessary_brace_in_string_interps
   print('is that a function $x $y');
 }
 

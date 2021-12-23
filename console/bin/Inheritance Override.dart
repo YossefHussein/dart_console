@@ -9,7 +9,6 @@ class youssef extends mama {
   // sub class
   @override
   info() {
-    // TODO: implement info
     print('hi 2');
   }
 }
@@ -17,6 +16,6 @@ class youssef extends mama {
 main(List<String> args) {
   mama ma = mama();
   ma.info();
-  youssef aben = youssef();
-  aben.info();
+  youssef a = youssef();
+  a.info();
 }
