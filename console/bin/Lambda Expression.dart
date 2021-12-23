@@ -10,10 +10,10 @@ main(List<String> args) {
   print(lam3(5, 5));
 }
 
-// name methode lame1, returne value 3 +5
+// name methode lame1, return value 3 +5
 lam1() => print(3 + 5);
 // 3 + 6;  allowance return 3 + 6;
 lam2() => 3 + 6;
-// this is prametar
+// this is parameter
 lam3(x, y) => x + y;
-// we can storge lambda expression in varebls
+// we can storage lambda expression in variables

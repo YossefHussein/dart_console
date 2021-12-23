@@ -2,7 +2,7 @@
 import 'dart:math';
 
 /*
- * app make brith year and except
+ * app make birth year and except
  */
 main() {
   var age_user = Random().nextInt(100);
