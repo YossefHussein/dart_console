@@ -1,6 +1,6 @@
 /*
  * Higher Order Functions
- * it is teaks a function to a parameter
+ * it is teaks a function as a parameter
  */
 
 main(List<String> args) {
