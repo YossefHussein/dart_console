@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="app" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false">
-    <option name="filePath" value="$PROJECT_DIR$/console/bin/Inheritance Override.dart" />
+    <option name="filePath" value="$PROJECT_DIR$/bin/abstract.dart" />
     <method v="2" />
   </configuration>
 </component>
